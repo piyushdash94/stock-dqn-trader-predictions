@@ -1,0 +1,10 @@
+yfinance
+ta
+matplotlib
+numpy
+pandas
+scikit-learn
+gym
+tensorflow
+torch
+xgboost
