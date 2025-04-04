@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment folders
+.env/
+.venv/
+env/
+venv/
+
+# VS Code config
+.vscode/
+
+# PyCharm config
+.idea/
+
+# Output / logs / artifacts
+*.log
+*.h5
+*.ckpt
+*.pkl
+*.sav
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python egg metadata
+*.egg-info/
+dist/
+build/
+
+# TensorBoard logs
+logs/
+
+# Virtual environment lock files
+Pipfile.lock
+poetry.lock
