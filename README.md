@@ -83,7 +83,7 @@ Main packages:
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/dqn-stock-trader-predictions.git
+git clone https://github.com/piyushdash94/dqn-stock-trader-predictions.git
 cd dqn-stock-trader-predictions
 ```
 
